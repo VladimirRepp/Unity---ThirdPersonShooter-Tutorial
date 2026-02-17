@@ -143,11 +143,11 @@
 
 ### Пример
 
-<img width="1728" height="965" alt="Снимок экрана 2025-12-24 в 19 32 08" src="https://github.com/user-attachments/assets/644904bc-3a17-4c11-a797-92e93a34b7bb" />
+<img width="3456" height="1930" alt="image" src="https://github.com/user-attachments/assets/174e021a-0e15-4c45-b0ee-1fcc603faedb" />
 
 ### UML 
 
-<img width="1471" height="993" alt="UML интвентярь" src="https://github.com/user-attachments/assets/bdbf8b9f-552b-418c-aa8d-9b3ce56063f2" />
+<img width="1471" height="993" alt="image" src="https://github.com/user-attachments/assets/3c485a72-8f02-4752-9359-7464d094090b" />
 
 
 ---
@@ -181,11 +181,11 @@
 
 ### Пример
 
-<img width="1728" height="972" alt="Снимок экрана 2025-12-24 в 19 32 41" src="https://github.com/user-attachments/assets/6789d469-cc93-4f68-8d4f-01168b0bc629" />
+<img width="3456" height="1944" alt="image" src="https://github.com/user-attachments/assets/4c996dd0-41c1-4926-8b1c-e0a165b073d1" />
 
 ### UML
 
-<img width="1307" height="1256" alt="UML стрельба" src="https://github.com/user-attachments/assets/2b6802cb-3037-4548-a728-325f081ee7cf" />
+<img width="1307" height="1256" alt="image" src="https://github.com/user-attachments/assets/8f7cf611-e013-4bff-8c4d-87c60f2f6676" />
 
 
 ---
@@ -214,7 +214,7 @@
 
 ### Пример
 
-<img width="1728" height="969" alt="Снимок экрана 2025-12-24 в 19 33 03" src="https://github.com/user-attachments/assets/4474fc53-db23-4993-931f-db5789fe46fb" />
+<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/e4f0790e-66bc-429d-8451-331ff34d97d7" />
 
 
 ---
@@ -249,32 +249,31 @@
 
 ### Пример
 
-<img width="1728" height="935" alt="Уровень 6" src="https://github.com/user-attachments/assets/bacf7fbe-2054-47f8-becf-5c9d0ae1c19f" />
+<img width="3456" height="1870" alt="image" src="https://github.com/user-attachments/assets/041a97b3-0cde-45b1-85ed-fec8236ec1b2" />
 
 ### FSM для зомби
 
-<img width="662" height="511" alt="FSM - Зомби 1" src="https://github.com/user-attachments/assets/bfdd47c4-0db0-49db-b54b-22fdc2533b50" />
+<img width="817" height="624" alt="image" src="https://github.com/user-attachments/assets/84932772-6b5f-45e9-9623-65c9f3cffa9b" />
 
-<img width="642" height="381" alt="FSM - зомби" src="https://github.com/user-attachments/assets/48c721a2-4ef1-40d9-b891-9f52796b94e0" />
+<img width="794" height="459" alt="image" src="https://github.com/user-attachments/assets/9ae20c62-8517-4b2e-82cc-7430664c13d0" />
 
 ### UML FSM для зомби (принцип №1 - доступен здесь)
-<img width="1474" height="1071" alt="UML FSM v0 зомби" src="https://github.com/user-attachments/assets/d7fc2e41-40d1-472b-8cba-8e5a12e7bf04" />
+<img width="1474" height="1071" alt="UML FSM v0 зомби" src="https://github.com/user-attachments/assets/b609b319-4c62-4491-8e8a-128251924fba" />
 
 Все в одном файле. Состояние - метод
 
 ### UML FSM для зомби (принцип №2 - доступен здесь)
-<img width="1588" height="1089" alt="UML FSM v0 1 зомби" src="https://github.com/user-attachments/assets/5442b968-bb6e-4421-9053-e1eb45ee849d" />
+<img width="1588" height="1089" alt="UML FSM v0 1 зомби" src="https://github.com/user-attachments/assets/cb8cd660-b71d-45f5-b9bc-115d5695f848" />
 
 Наследование, компонентная основа. Состояние - отдельный компонент 
 
 ### UML FSM для зомби (принцип №3 - в полной версии)
-<img width="1600" height="979" alt="image" src="https://github.com/user-attachments/assets/c35e10ee-f8b2-44dd-9e2c-176e480e1f4a" />
+<img width="1600" height="979" alt="UML FSM v0 2 зомби" src="https://github.com/user-attachments/assets/e0c91afc-b5e6-4b78-8e0f-8a838ac723c8" />
 
 Наследование, event-based архитекрура, шаблонный метод, компонентная основа. Состояние - отдельный компонент 
 
-
 ### UML FSM для зомби (принцип №4 - в полной версии)
-<img width="1780" height="1430" alt="UML FSM v1 зомби" src="https://github.com/user-attachments/assets/389afb5b-1413-4734-9de8-c712fb8bebb2" />
+<img width="1780" height="1430" alt="UML FSM v1 зомби" src="https://github.com/user-attachments/assets/ba3514fd-e15f-430d-941f-237820f82eef" />
 
 Контроллер использует фабрику состояний, состояния используют NavMeshAI Agent
 
