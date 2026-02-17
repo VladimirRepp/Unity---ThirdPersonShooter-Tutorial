@@ -84,7 +84,8 @@
 
 ### Пример
 
-<img width="1728" height="974" alt="Снимок экрана 2025-12-24 в 19 30 23" src="https://github.com/user-attachments/assets/625a31c1-3b38-4f2e-b962-e73551bf2388" />
+<img width="3456" height="1948" alt="image" src="https://github.com/user-attachments/assets/63b836b1-94ba-42f1-8ab6-0801cf30205b" />
+
 
 
 ---
@@ -107,7 +108,7 @@
 
 ### Пример
 
-<img width="1728" height="965" alt="Снимок экрана 2025-12-24 в 19 30 56" src="https://github.com/user-attachments/assets/86d5fc75-b9b3-4cf1-b07f-b50a51ebc852" />
+<img width="3456" height="1930" alt="image" src="https://github.com/user-attachments/assets/9df6d35a-7618-47e7-8087-d32aff49beba" />
 
 
 ---
