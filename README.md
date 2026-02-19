@@ -22,7 +22,7 @@
 
 Репозиторий:
 
-👉 [Unity---ThirdPersonShooter-Tutorial](https://github.com/VladimirRepp/Unity---Unity---ThirdPersonShooter-Tutorial)
+👉 [Unity---ThirdPersonShooter-Tutorial](https://github.com/VladimirRepp/Unity---ThirdPersonShooter-Tutorial)
 
 Полный проект:
 
